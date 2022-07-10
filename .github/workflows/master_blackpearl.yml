@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'blackpearl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_008CD65FC39247B99593AD5A6882DF2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E73FBF2046A47918D0B3A1BE1DDF6BD }}
           package: .
